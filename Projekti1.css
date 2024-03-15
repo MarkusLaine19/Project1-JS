@@ -1,14 +1,14 @@
-*{
+*{ 
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: 
 }
 
 .sailio {
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #2C3E50, #FD746C);
-    padding: 10px;
+    padding: 10px; 
 }
 .todo-lista {
     width: 100%;
@@ -16,7 +16,7 @@
     background-color: #b3aeae;
     margin: 10px;
     padding: 50px 20px 70px;
-    border-radius: 10px;
+    border-radius: 10px; 
 }
 .todo-lista h2 {
     color: rgb(63, 44, 14);
